@@ -71,5 +71,18 @@
 </table>
 
 
-Univolve is developed with Flutter and Firebase, offering a robust and user-friendly interface that enhances student life through technology. Dive into our repository to see how we built Univolve, including detailed code documentation, setup instructions, and more.
+## Why We Built Univolve
+
+This project was developed as a submission for the Mobile Development 1 course at Thompson Rivers University, under the guidance of [Prof. Jaspreet Kaur](https://www.linkedin.com/in/dr-jaspreet-kaur-6a70a5220/). Throughout the development process, we utilized a diverse array of technologies and tools including Flutter, Firebase, Figma, and GitHub, along with various libraries that enhanced our application's functionality. We applied many of the concepts learned in the course, which significantly contributed to our comprehensive understanding and skill enhancement.
+
+It was a remarkable experience to serve as the team lead, collaborating with talented classmates:
+
+- [Devind Dev](https://www.linkedin.com/in/devindxdev/)
+- [Yangzi Pasang Sherpa](https://www.linkedin.com/in/pasang-sherpa-012a5a2b1/)
+- [Jimil Hingu](https://www.linkedin.com/in/jimil-hingu-403b54276/)
+- [Behzad Ramezani](https://www.linkedin.com/in/behzad-ramezani/)
+
+We completed the app within two months and received outstanding feedback from our professor. Univolve was also presented at the Computer Science show, where it was highly appreciated among projects by fourth-year students. Notably, we were the only team of second-year students participating, highlighting our exceptional commitment and teamwork.
+
+
 
