@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="images/cover.png" width="100%"/>
+</p>
+
+
 # Univolve: Enhancing Student Engagement at Thompson Rivers University
 
 **Univolve** is a comprehensive event management and social interaction platform specifically designed for the students of Thompson Rivers University (TRU). This app centralizes scattered event information, facilitating better accessibility and engagement among students. With features like personalized event notifications, social media integration, and real-time interaction capabilities, Univolve aims to enrich the university experience by keeping students connected and informed about campus activities.
@@ -51,9 +56,20 @@
 - **Robust Security:** Protects personal and chat data with advanced security measures.
 - **Seamless Registration & Login:** Utilizes Firebase Auth for easy and secure user authentication.
 
-## Screens:
-- **Login and Register Screens:** Smooth and secure login process.
-- **Forget Password Integration:** Provides easy recovery options for users.
+## Authentication Screens:
+
+<table>
+<tr>
+<td><img src="images/authscreens.png" width="300"/></td>
+<td>
+<ul>
+<li><strong>Login and Register Screens:</strong> Smooth and secure login process.</li>
+<li><strong>Forget Password Integration:</strong> Provides easy recovery options for users.</li>
+</ul>
+</td>
+</tr>
+</table>
+
 
 Univolve is developed with Flutter and Firebase, offering a robust and user-friendly interface that enhances student life through technology. Dive into our repository to see how we built Univolve, including detailed code documentation, setup instructions, and more.
 
